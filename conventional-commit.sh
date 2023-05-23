@@ -41,7 +41,7 @@ cat << EOF > ".git/hooks/commit-msg"
 
 commit_msg=\$(cat "\${1:?Missing commit message file}")
 
-commit_msg_type_regex='feat|fix|refactor|style|test|docs|build|lang'
+commit_msg_type_regex='feat|fix|refactor|style|test|docs|build|lang|chore'
 commit_msg_scope_regex='.{1,20}'
 commit_msg_subject_regex='.{1,100}'
 commit_msg_regex="^(\${commit_msg_type_regex})(\(\${commit_msg_scope_regex}\))?: (\${commit_msg_subject_regex})\$"
