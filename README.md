@@ -2,7 +2,7 @@
 
 This script sets up a commit-msg hook in a Git repository to enforce a conventional commit message format based on the Conventional Commits specification.
 
-## Usage
+## Installation and Configuration
 
 ```bash
 ./conventional-commit.sh <directory_path> [options]
