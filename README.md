@@ -15,7 +15,7 @@ This script sets up a commit-msg hook in a Git repository to enforce a conventio
 - `-h, --help`: Show the help message.
 - `--disable`: Disable the commit-msg hook.
 
-## Installation and Configuration
+## Usage
 
 1. Run the script with the desired directory path as the first parameter:
    ```bash
