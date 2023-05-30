@@ -54,5 +54,3 @@ This example runs the script in the `my_project/` directory, setting up the comm
 Please note that this script assumes you have appropriate permissions to modify the Git repository and its hooks.
 
 ```
-
-Please note that the generated README file is in Markdown format. You can copy the content and save it in a file named `README.md` in your project directory.
