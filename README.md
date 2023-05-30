@@ -52,5 +52,3 @@ If the commit message does not match the specified format, an error will be disp
 This example runs the script in the `my_project/` directory, setting up the commit-msg hook for the Git repository located in that directory.
 
 Please note that this script assumes you have appropriate permissions to modify the Git repository and its hooks.
-
-```
